@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>初之</title>
+        <link>https://wodewoshiwo.github.io/blog.sina.com.cn/</link>
+        <description>浏览“缠中说禅”更多文章请点击进入缠中说禅/http://blog.sina.com.cn/chzhshch</description>
+        <generator>Hugo 0.115.4 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>wodewoshiwo@gmail.com (初之)</managingEditor>
+        
+        
+            <webMaster>wodewoshiwo@gmail.com (初之)</webMaster>
+        
+        
+            <copyright>事物就是事物，人只不过是人。</copyright>
+        
+        <lastBuildDate>Sat, 03 Jan 2026 16:02:08 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://wodewoshiwo.github.io/blog.sina.com.cn/rss.xml" />
+        
+        
+    </channel>
+</rss>
